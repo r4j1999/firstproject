@@ -1,0 +1,4 @@
+tk
+bs4
+requests
+python-nmap
